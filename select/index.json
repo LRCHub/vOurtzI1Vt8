@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "03- Cypher 2023",
+  "base_artist": "03- Performance、Rommy Montana",
+  "createdAt": "2025-12-12T07:44:58.379034Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "03 - Hunting High And Low",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/01_03_-_Hunting_High_And_Low_A.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "03 - Perdiendo El Contacto",
+      "artist": "Friccion",
+      "has_synced": true,
+      "path": "select/02_03_-_Perdiendo_El_Contacto_Friccion.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "03 - Por El Resto",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/03_03_-_Por_El_Resto_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "03 - Simulacro De Tensión",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/04_03_-_Simulacro_De_Tensión_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "03 - Take The Power Back",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/05_03_-_Take_The_Power_Back_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Go To Sleep - Zane Lowe - 08/12/03",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/06_Go_To_Sleep_-_Zane_Lowe_-_08_12_03_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go to Sleep. (Live on Zane Lowe, 08/12/03)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/07_Go_to_Sleep._(Live_on_Zane_Lowe,_08_12_03)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sail To The Moon - BBC Radio 1's Jo Whiley's Live Lounge - 28/05/03",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/08_Sail_To_The_Moon_-_BBC_Radio_1's_Jo_Whiley's_Live_Lounge_-_28_05_03_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sail To The Moon. (BBC Radio 1's Jo Whiley's Live Lounge, 28/05/03)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/09_Sail_To_The_Moon._(BBC_Radio_1's_Jo_Whiley's_Live_Lounge,_28_05_03)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ready Set Go (feat. 03 Greedo & XXXTENTACION)",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/10_Ready_Set_Go_(feat._03_Greedo_&_XXXTENTACION)_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "2 + 2 = 5 (live at Earls Court, London, 26\u000011\u000003)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_2_+_2_=_5_(live_at_Earls_Court,_London,_26\u000011\u000003)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "03 - The Invisible Man",
+      "artist": "Scatman John",
+      "has_synced": false,
+      "path": "select/12_03_-_The_Invisible_Man_Scatman_John.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "03. Your Love (Instrumental)",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/13_03._Your_Love_(Instrumental)_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Inertia (1996-03: radio broadcasting)",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/14_Inertia_(1996-03__radio_broadcasting)_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "03- Cypher 2023 (feat. eyden, Choppa Capone, Deech, Jinmenusagi, FreekoyaBoiii & LIL G)",
+      "artist": "03- Performance & Rommy Montana",
+      "has_synced": false,
+      "path": "select/pl_01_03-_Cypher_2023_(feat._eyden,_Choppa_Capone,_Deech,_Jinmenusagi,_FreekoyaBoiii_&_03-_Performance_&_Rommy_Montana.txt"
+    }
+  ]
+}
